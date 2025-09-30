@@ -8,10 +8,10 @@
 
 ## 🔧 Skills
 - Programming: C++, Python, JavaScript, PHP  
-- Web: HTML, CSS, React (learning)  
-- Tools: Git & GitHub, Figma (UI/UX basics)  
+- Web: HTML, CSS, React, Tailwind  
+- Tools: Git & GitHub, Figma, Canva (UI/UX basics)  
 
 ---
 
 ## 📬 Contact
-📧 salah.zekraoui@enisa.edu.dz
+📧 salahzekraoui00@gmail.com
